@@ -19,7 +19,7 @@
     "@magic-sdk/types": "^15.6.1",
     "@next-auth/prisma-adapter": "^1.0.5",
     "@next/bundle-analyzer": "^13.4.6",
-    "@prisma/client": "^4.11.0",
+    "@prisma/client": "^4.16.2",
     "@reduxjs/toolkit": "^1.9.5",
     "@storybook/addon-postcss": "^2.0.0",
     "@supabase/supabase-js": "^2.24.0",
