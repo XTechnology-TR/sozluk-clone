@@ -36,7 +36,7 @@
     "bcrypt": "^5.1.0",
     "formik": "^2.2.9",
     "isomorphic-dompurify": "^1.6.0",
-    "magic-sdk": "^18.4.1",
+    "magic-sdk": "^29.0.0",
     "nanoid": "^4.0.2",
     "next": "^13.4.1",
     "next-auth": "^4.21.0",
